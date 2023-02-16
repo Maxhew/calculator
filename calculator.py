@@ -1,11 +1,3 @@
-# ? Hesap Makinesi projesindeki temel amacım ekleyebildiğim kadar fazla işlem eklemek ve güzel bir arayüz oluşturmak.
-
-#NOTLAR
-#__________________________
-#Translate bölümüne dil listesi eklenecek. (done)
-#Trigonometri kısmında baya bir değişiklik yapılacak eleman fonksiyonu oraya da tanımlanmalı.
-#Eleman fonksiyonuna daha çok klavye kısayolu eklenecek. 
-#Onun dışında program tamamen bitti .
 import threading
 import time
 import os
