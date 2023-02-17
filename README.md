@@ -1,4 +1,4 @@
-# calculator
+# calculator v 1.0
 Its my first python project, so there might be some parts you don't like it but if you comment nicely, i can fix my errors and i may be better. Thank you guys <3
 
 First of all, as I said above, this is my first serious project and it's been 1-2 months since I started using python. 
